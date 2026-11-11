@@ -6,6 +6,11 @@ Current
 
 - Nothing yet
 
+2.4.1 (2026-11-11)
+------------------
+
+- Replace deprecated ``django.conf.urls.url()`` with ``django.urls.re_path()`` in ``djangojs/urls.py``
+
 0.8.1 (2013-10-19)
 ------------------
 
